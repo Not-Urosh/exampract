@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class subnum {
 	
 	int sum1;
-	float orange_juice,Godrej;
+	float orange_juice,Godrej,f;
 	
 	subnum(int sum1)
 	{
